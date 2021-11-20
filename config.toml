@@ -27,7 +27,7 @@ copyright = "&copy; Copyright 2021, Dave Smith"
 [params]
   description = "My occasional ramblings."      # Your meta description of the site
   header_title = "Dave Smith"                 # Your header title
-  header_subtitle = "I'm not a blogger" # Your header subtitle
+  header_subtitle = "I am not a blogger" # Your header subtitle
   home_image = "/images/badge.png"          # Path to header image starting from the static directory
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
