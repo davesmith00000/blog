@@ -16,7 +16,7 @@ Website: [https://indigoengine.io/](https://indigoengine.io/)
 
 ## ☕ Tyrian
 
-**An Elm-like frontend framework for Scala 3.**
+**An Elm-like web framework for Scala 3.**
 
 _Maintenance pattern:_ Tyrian is based on a fork of an earlier library called Scalm. I don't have a lot of need to do SPA / Interactive web dev, but when I do, this is the only way I want to work, and so Tyrian tends to get an upgrade.
 
