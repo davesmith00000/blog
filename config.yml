@@ -90,8 +90,12 @@ params:
         #       url: tags
 
     homeInfoParams:
-        Title: "Welcome! 👋"
-        Content: More of my particular brand of nonsense can be found in places like...
+        Title: "Hi there! 👋"
+        Content: >
+          Occasionally I feel the need to talk about something or other, and this is my chosen outlet.
+          
+
+          More of my particular brand of nonsense can be found in my [open source projects](/projects), and in the links below...
     socialIcons:
         - name: github
           url: "https://github.com/davesmith00000"
