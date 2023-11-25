@@ -1,0 +1,3 @@
+# Welcome! ...are you lost?
+
+This page exists purely to satisfy the website build tool I'm using. If you aren't here by accident or misfortune, then you'll want to pick something on the left...
