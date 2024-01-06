@@ -157,7 +157,8 @@ lazy val blog =
               )
             ),
             documentationLinks = Seq(
-              TextLink.internal(Root / "posts" / "welcome.md", "Welcome! ...are you lost?")
+              TextLink.internal(Root / "posts" / "first-post.md", "Latest post"),
+              TextLink.internal(Root / "posts" / "welcome.md", "Archive")
             ),
             projectLinks = Seq(
               TextLink.external("https://github.com/PurpleKingdomGames/indigo", "Indigo"),
